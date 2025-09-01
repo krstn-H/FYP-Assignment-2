@@ -1,3 +1,4 @@
+// branch2
 #include <stdio.h>
 int main () {
     float panjang;
@@ -11,3 +12,4 @@ int main () {
     printf("Luas persegi panjang adalah: %.2f", luas);
     return(0);
 } 
+
